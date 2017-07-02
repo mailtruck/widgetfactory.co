@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on ⚓ Widget Factory:  Brian Danowski&#39;s Blog about Tech, Programming, Devops, and Stuff</title>
+    <link>https://widgetfactory.co/blog/</link>
+    <description>Recent content in Blogs on ⚓ Widget Factory:  Brian Danowski&#39;s Blog about Tech, Programming, Devops, and Stuff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>true</copyright>
+    <lastBuildDate>Sun, 02 Jul 2017 17:19:29 +0000</lastBuildDate>
+    
+	<atom:link href="https://widgetfactory.co/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Real Buzzwords of 2017</title>
+      <link>https://widgetfactory.co/blog/real_buzzwords_of_2017/</link>
+      <pubDate>Sun, 02 Jul 2017 17:19:29 +0000</pubDate>
+      
+      <guid>https://widgetfactory.co/blog/real_buzzwords_of_2017/</guid>
+      <description>I thought it would be fun to have a blog post dedigated to buzzwords.
+Here we go.
+ unikernel serverless docker continuous integration containers/containierization technology orchestration service discovery data science machine learning AI (artificial intelligence) compilers service worker devOps full stack soft skills kubernetes yaml web scale analytics p value functional programming  Ok stay tuned.</description>
+    </item>
+    
+    <item>
+      <title>Conntect to a Server Running in a Docker Container  From Host OS X (macOS)</title>
+      <link>https://widgetfactory.co/blog/access_server_inside_docker_container_from_mac/</link>
+      <pubDate>Sun, 02 Jul 2017 05:14:31 +0000</pubDate>
+      
+      <guid>https://widgetfactory.co/blog/access_server_inside_docker_container_from_mac/</guid>
+      <description>The other day, in the spirit of a docker noob, I asked my colleage how to connect to a server that is running inside a container from my mac.
+He said just add net=&amp;ldquo;host&amp;rdquo; to the docker run command, and I realized I probably should have tried to google the answer first.
+Simple right? Not so fast!
+It turns out, on macOS (OO X), docker&amp;rsquo;s &amp;ndash;net=&amp;ldquo;host&amp;rdquo; doesn&amp;rsquo;t work.
+This probably has something to with docker for mac [uses the OS X hypervisor kernel something something virtualmachine](&amp;ldquo;https://stackoverflow.</description>
+    </item>
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://widgetfactory.co/blog/welcome/</link>
+      <pubDate>Sun, 02 Jul 2017 02:58:31 +0000</pubDate>
+      
+      <guid>https://widgetfactory.co/blog/welcome/</guid>
+      <description>Hello and welcome to the blog.
+I had a hard time getting hugo to compile on my digital ocean vm so I (forked the repo) and added some binaries.
+Cool story bro.</description>
+    </item>
+    
+  </channel>
+</rss>
